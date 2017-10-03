@@ -10,3 +10,25 @@
   box-shadow: none;
   font-weight: bold;
 }
+.grey-background {
+  background-color: #292929;
+  height: 400px;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 10px;
+  border-bottom-color: white;
+  color: white;
+}
+
+.ui.footer.borderless.menu {
+  background-color: #292929;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.footer.divider {
+  margin: 0 auto;
+  width: 961px;
+}
